@@ -1,4 +1,4 @@
-# Snake
+# Space Invaders
 
 Space Invaders is a classic game coded in Python. It runs on your console screen. Yes! ASCII
 
