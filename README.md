@@ -38,5 +38,5 @@ What about...
 
 ## License
 
-This project is under GPL License
+This project is under Gnu GPL-3 License
 
